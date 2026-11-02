@@ -37,6 +37,7 @@ public class Main {
                 " mínimo número de billetes posible).\n" +
                 "15. Salir.\n");
 
+
         int opcion = sc.nextInt();
         switch (opcion) {
             case 1 -> exercici1(sc);
