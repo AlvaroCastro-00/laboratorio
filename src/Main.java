@@ -40,7 +40,7 @@ public class Main {
         int opcion = sc.nextInt();
         switch (opcion) {
             case 1 -> exercici1(sc);
-
+            System.out.println("NUEVO CÓDIGO POR AMARO");
             case 2 -> exercici2(sc);
 
             case 3 -> exercici3(sc);
